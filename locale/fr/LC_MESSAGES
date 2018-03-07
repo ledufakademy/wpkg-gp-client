@@ -1,0 +1,349 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-10-04 17:26+0200\n"
+"PO-Revision-Date: 2018-03-07 11:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: WPKG-GP-Client.py:119
+msgid ""
+"Update error detected\n"
+"during system start up."
+msgstr "Erreur de mise à jour durant le démarrage du système."
+
+#: WPKG-GP-Client.py:121
+msgid "WPKG Error"
+msgstr "Erreur WPKG"
+
+#: WPKG-GP-Client.py:122
+msgid "System start error"
+msgstr "Erreur de démarrage système"
+
+#: WPKG-GP-Client.py:130
+msgid ""
+"System should be updated!\n"
+"\n"
+"System wasn't updated in over {} days."
+msgstr ""
+"Votre système devrait être mis à jour !\n"
+"\n"
+"cela fait {} jours qu'il ne l'a pas été."
+
+#: WPKG-GP-Client.py:132
+msgid "Attention!"
+msgstr "Attention!"
+
+#: WPKG-GP-Client.py:139
+msgid "Check for updates"
+msgstr "Rechercher les mises à jour"
+
+#: WPKG-GP-Client.py:140
+msgid "System update"
+msgstr "Mettre à jour le système"
+
+#: WPKG-GP-Client.py:142
+msgid "Help"
+msgstr "Aide"
+
+#: WPKG-GP-Client.py:145
+msgid "Cancel shutdown"
+msgstr "Annuler l'arrêt du système"
+
+#: WPKG-GP-Client.py:148 WPKG-GP-Client.py:519
+msgid "Close"
+msgstr "Fermer"
+
+#: WPKG-GP-Client.py:184
+msgid "Could not load updates:"
+msgstr "Impossible de charger les mises à jour:"
+
+#: WPKG-GP-Client.py:185
+msgid "Update Error"
+msgstr "Erreur de mises à jour"
+
+#: WPKG-GP-Client.py:190
+msgid "UPD:"
+msgstr "MISEàJOUR:"
+
+#: WPKG-GP-Client.py:191
+msgid "NEW:"
+msgstr "NOUVEAU:"
+
+#: WPKG-GP-Client.py:192
+msgid "REM:"
+msgstr "SUPPRESSION:"
+
+#: WPKG-GP-Client.py:193
+msgid "DOW:"
+msgstr "RETROGRADE:"
+
+#: WPKG-GP-Client.py:199
+msgid "Update(s) available:"
+msgstr "Mise(s) à jour disponible(s):"
+
+#: WPKG-GP-Client.py:205
+msgid "No Updates"
+msgstr "Pas de mises à jour"
+
+#: WPKG-GP-Client.py:224
+msgid ""
+"Registry Error\n"
+"\n"
+"No access to necessary registry key."
+msgstr ""
+"Erreur de base de registre\n"
+"\n"
+"Impossible d'accéder à la clef de registre nécessaire."
+
+#: WPKG-GP-Client.py:230
+msgid ""
+"Reboot required!\n"
+"\n"
+"A reboot is required before the system\n"
+"can be updated again.\n"
+"Reboot now?"
+msgstr ""
+"Redémarrage nécessaire!\n"
+"\n"
+"Un redémarrage est nécessaire avant que le système\n"
+"puisse être mis à jour à nouveau.\n"
+"Redémarrer maintenant?"
+
+#: WPKG-GP-Client.py:237
+msgid "System will reboot now!"
+msgstr "Le système va redémarrer maintenant!"
+
+#: WPKG-GP-Client.py:245
+msgid "System Update"
+msgstr "Mise à jour système"
+
+#: WPKG-GP-Client.py:260
+msgid "WPKG-GP Client - Help"
+msgstr "Aide WPKG-GP client"
+
+#: WPKG-GP-Client.py:299
+msgid ""
+"Close all open Applications, it is possible that programs will be closed without a "
+"warning and system could reboot without further confirmation."
+msgstr ""
+"Il est possible que les logiciels soient fermés sans message d'avertissement et que "
+"le système soit redémarré sans autre confirmation."
+
+#: WPKG-GP-Client.py:302
+msgid "Attention"
+msgstr "Attention"
+
+#: WPKG-GP-Client.py:309
+msgid "Current Progress:"
+msgstr "Progression en cours:"
+
+#: WPKG-GP-Client.py:312
+msgid "Shutdown after update"
+msgstr "Arrêt système après mise à jour"
+
+#: WPKG-GP-Client.py:315
+msgid "Open WPKG Log"
+msgstr "Ouvrir les journaux WPKG"
+
+#: WPKG-GP-Client.py:317
+msgid "Update"
+msgstr "Mise à jour"
+
+#: WPKG-GP-Client.py:318 WPKG-GP-Client.py:371
+msgid "Cancel"
+msgstr "Annulation"
+
+#: WPKG-GP-Client.py:345
+msgid ""
+"WPKG is currently running,\n"
+"please wait a few seconds and try again."
+msgstr ""
+"WPKG est en cours d'execution \n"
+"veuillez attendre quelques secondes et essayer à nouveau."
+
+#: WPKG-GP-Client.py:351
+msgid "2. Warning"
+msgstr "2. Avertissement"
+
+#: WPKG-GP-Client.py:352
+msgid ""
+"Close all open programs!\n"
+"\n"
+"The System could restart without further confirmation!\n"
+"\n"
+"Continue?"
+msgstr ""
+"Veuillez fermer tous les logiciels!\n"
+"\n"
+"le système pourra  être redémarré sans autre confirmation!\n"
+"\n"
+"Continuer?"
+
+#: WPKG-GP-Client.py:372
+msgid ""
+"System update in progress!\n"
+"\n"
+" Canceling this Progress could result in installation issues.\n"
+"Cancel?"
+msgstr ""
+"Mise à jour système en cours!\n"
+"\n"
+"Annuler pourrait entrainer des erreurs d'installation .\n"
+"Annuler?"
+
+#: WPKG-GP-Client.py:399
+msgid ""
+"WPKG-GP Client detected a active VPN Connection using Cisco Anyconnect.\n"
+"This could result in slow upgrade progress and updates for the AnyConnect\n"
+"Software will be blocked.\n"
+"Continue?"
+msgstr ""
+"WPKG-GP Client a détecté une connnexion VPN active utilisant Cisco Anyconnect.\n"
+"Cela pourrait entraîner des lenteurs\n"
+"Cisco Annyconnect va être bloqué.\n"
+"Continuer?"
+
+#: WPKG-GP-Client.py:456
+msgid "WPKG-GP process aborted."
+msgstr "WPKG-GP procesus annulé."
+
+#: WPKG-GP-Client.py:464
+msgid "WPKG-GP Notification"
+msgstr "WPKG-GP Notification"
+
+#: WPKG-GP-Client.py:467
+msgid ""
+"WPKG-GP is currently running a task.\n"
+"Retry later."
+msgstr ""
+"WPKG-GP est en train d'executer une tâche.\n"
+"Réessayer plus tard."
+
+#: WPKG-GP-Client.py:470
+msgid "The update server could not be reached."
+msgstr "Le serveur de mise à jour n'a pu être contacté."
+
+#: WPKG-GP-Client.py:473
+msgid ""
+"The system was rejected from the server to execute an update!\n"
+"Contact your IT department for further information."
+msgstr ""
+"Le serveur de mise à jour a rejeté votre demande de mise à jour!\"\n"
+"Contacter votre assistance pour plus d'informations."
+
+#: WPKG-GP-Client.py:476
+msgid ""
+"You are not authorized to execute a wpkg update!\n"
+"Contact your IT department for further information."
+msgstr ""
+"Vous n'êtes pas autorisé à executer des mises à jour WPKG!\n"
+"Contacter votre assistance pour plus d'informations."
+
+#: WPKG-GP-Client.py:479
+msgid "Can't connect to the wpkg-gp service."
+msgstr "Impossible de se connecter au service WPKG-GP."
+
+#: WPKG-GP-Client.py:482
+msgid "Unknown problem occured."
+msgstr "Un problème inconnu est survenu."
+
+#: WPKG-GP-Client.py:487
+msgid "WPKG-GP process finished, restart necessary!"
+msgstr "WPKG-GP processus terminé, redémarrage nécessaire!"
+
+#: WPKG-GP-Client.py:489
+msgid "WPKG-GP process finished."
+msgstr "WPKG-GP processus terminé."
+
+#: WPKG-GP-Client.py:491
+msgid "Error detected during update"
+msgstr "Erreur detectée durant la mise à jour"
+
+#: WPKG-GP-Client.py:496
+msgid ""
+"Reboot required!\n"
+"\n"
+"For the completion of the installation(s), a reboot is required.\n"
+"Reboot now?"
+msgstr ""
+"Redémarrage requis!\n"
+"Pour finaliser l(es) installation(s), un redémarrage est requis.\n"
+"Redémarrer maintenant?"
+
+#: WPKG-GP-Client.py:502
+msgid "System will reboot in %TIME% seconds."
+msgstr "Le système va redémarrer dans %TIME% seconde."
+
+#: WPKG-GP-Client.py:510
+msgid "System will shutdown in %TIME% seconds."
+msgstr "Le système va s'arrêter dans %TIME% seconde."
+
+#: WPKG-GP-Client.py:517
+msgid "No System changes."
+msgstr "Aucun changement système."
+
+#: WPKG-GP-Client.py:563
+msgid "Can't open config file \"{}\"!"
+msgstr "Impossible d'ouvrir le fichier de configuration \"{}\"!"
+
+#: WPKG-GP-Client.py:570
+msgid "An instance of WPKG-GP Client is already running!"
+msgstr "Un instance de WPKG-GP Client est déjà lancée!"
+
+#: WPKG-GP-Client.py:576
+msgid "WPKG-GP Client requires at least version {} of the WPKG-GP Service."
+msgstr "WPKG-GP Client requiert la dernière version {} du service WPKG-GP."
+
+#~ msgid ""
+#~ "WPKG-GP is currently checking for updates,\n"
+#~ "please wait a few seconds until the check is done and try again."
+#~ msgstr ""
+#~ "WPKG-GP está comprobando actualizaciones,\n"
+#~ "por favor espere hasta que finalice e inténtelo de nuevo."
+
+#~ msgid "Could not load update file:"
+#~ msgstr "No se puede cargar el fichero de actualizaciones:"
+
+#~ msgid "Registry Error"
+#~ msgstr "Error de registro"
+
+#~ msgid "No access to necessary registry key."
+#~ msgstr "No se puede acceder a la clave de registro necesaria."
+
+#~ msgid "Reboot required"
+#~ msgstr "Es necesario reiniciar"
+
+#~ msgid "Update check in progress!"
+#~ msgstr "¡Comprobando actualizaciones disponibles!"
+
+#~ msgid ""
+#~ "WPKG-GP is currently checking for updates,\n"
+#~ "please wait a few seconds until the check is done."
+#~ msgstr ""
+#~ "WPKG-GP está comprobando actualizaciones, por favor espere unos segundos hasta que "
+#~ "finalice la comprobación."
+
+#~ msgid ""
+#~ "System detected a active VPN Connection using Cisco Anyconnect\n"
+#~ "This could result in slow upgrade progress and updates for the AnyConnect\n"
+#~ "Software will be blocked.\n"
+#~ "Continue?"
+#~ msgstr ""
+#~ "El sistema ha detectado una conexión activa VPN usando Cisco Anyconnect\n"
+#~ "Esto podría ocasionar lentitud en el proceso de actualización y bloqueo\n"
+#~ "de la actualización de Cisco Anyconnect.\n"
+#~ "¿continuar? "
+
+#~ msgid "An instance of WPKG-GP Client is allready running!"
+#~ msgstr "¡Ya se está ejecutando una instancia del cliente WPKG-GP!"
